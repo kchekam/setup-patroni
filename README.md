@@ -1,1 +1,2 @@
 # setup-patroni
+test
